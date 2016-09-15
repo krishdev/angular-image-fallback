@@ -1,0 +1,18 @@
+{
+  "name": "imagefallback",
+  "version": "1.0.0",
+  "description": "Angular ngSrc fall back to check whether the path exists. If not it can either hide the img element or replace with a default image",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angularjs",
+    "imagefallback"
+  ],
+  "author": "Krishna",
+  "license": "MIT"
+}
