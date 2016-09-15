@@ -1,5 +1,5 @@
 /**
- * Angular img ngSrc Fallback
+ * angular-image-fallback
  * (c) 2016 Krishnakumar Rajendran
  * license: MIT 
  * github: https://github.com/krishdev/imgFallBack
