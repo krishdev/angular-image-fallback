@@ -37,4 +37,4 @@ fallback-hide |	Hides the element if the path of the image is wrong
 Image Fallback - Angular is licensed under the MIT license. (http://opensource.org/licenses/MIT)
 
 ## Contribution
-Encourage improvements over Custom Banner Carousel. Would like to see the work on plunker before requesting a merge. Naming convensions should be camelCase.
+Encourage improvements over Angular Image Fallback. Would like to see the work on plunker before requesting a merge. Naming convensions should be camelCase.
